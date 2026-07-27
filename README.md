@@ -110,6 +110,9 @@ This design deliberately puts today's date and the deadline as explicit "ground 
 1. ![Upload form](./screenshots/upload-form.png)
 2. ![Generated schedule](./screenshots/generated-schedule.png)
 3. ![Calendar export / custom prompt](./screenshots/calendar-export.png)
+4. ![Calendar export / custom prompt](./screenshots/custom-prompt.png)
+5. ![Calendar export / custom prompt](./screenshots/milestones-view.png)
+6. ![Calendar export / custom prompt](./screenshots/completed-tasks.png)
 
 ---
 
